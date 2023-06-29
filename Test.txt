@@ -18,4 +18,7 @@ Testリポジトリ
 リモリポ（リモートリポジトリ）にnew branch
 
 	git push origin sub1
+	*pushはアクティブブランチを変更しなくてもいい
 	
+マージ実験用にmg1,mg2ブランチを作成、およびそれぞれtxtファイルをcommit
+それぞれをpush -> 当然mg1にはmg1にcommitしたtxtしかなく、mg2も然り
