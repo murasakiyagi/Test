@@ -15,3 +15,7 @@ Testリポジトリ
 
 	git chackout sub1
 	
+リモリポ（リモートリポジトリ）にnew branch
+
+	git push origin sub1
+	
