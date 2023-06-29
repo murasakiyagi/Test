@@ -6,3 +6,12 @@ Testリポジトリ
 	git add Test.txt
 
 	git diff 差分確認
+	
+ブランチを作る
+
+	git branch 'branch_name'(sub1)
+	
+ブランチを切り替え
+
+	git chackout sub1
+	
