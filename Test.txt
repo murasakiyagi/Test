@@ -1,0 +1,8 @@
+
+
+
+Testリポジトリ
+
+	git add Test.txt
+
+	git diff 差分確認
