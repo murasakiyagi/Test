@@ -1,0 +1,29 @@
+
+
+
+Testリポジトリ
+
+	git add Test.txt
+
+	git diff 差分確認
+	
+ブランチを作る
+
+	git branch 'branch_name'(sub1)
+	
+ブランチを切り替え
+
+	git chackout sub1
+	
+リモリポ（リモートリポジトリ）にnew branch
+
+	git push origin sub1
+	*pushはアクティブブランチを変更しなくてもいい
+	
+マージ実験用にmg1,mg2ブランチを作成、およびそれぞれtxtファイルをcommit
+それぞれをpush -> 当然mg1にはmg1にcommitしたtxtしかなく、mg2も然り
+あとはウェブ上でテキストを見ながら基本のマージを行う
+	mg1 <- mg2.txt追加
+	mg2削除
+	
+ロカリポのmg2は残っている
