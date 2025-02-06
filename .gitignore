@@ -1,4 +1,4 @@
 **/.DS_Store
-dir1/
-dir2/
+dir1/**.txt
+dir2/sample1.**
 dir3/
